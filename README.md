@@ -1,6 +1,6 @@
-Yes — you can **copy everything below directly into the `README.md` editor on GitHub**. I’ve kept it in proper GitHub Markdown format.
 
-````markdown
+
+
 # 🛍️ Customer Shopping Behavior Analysis
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
