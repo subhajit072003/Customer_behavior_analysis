@@ -199,7 +199,8 @@ The dashboard provides a consolidated view that can support customer, product, m
 
 # 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](images/dashboard.png)
+<img width="1142" height="761" alt="image" src="https://github.com/user-attachments/assets/1ff808fb-d4b7-4137-8766-63c4431fefed" />
+
 
 # 📁 Project Structure
 
