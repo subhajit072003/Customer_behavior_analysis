@@ -1,7 +1,7 @@
 
 # 🛍️ Customer Shopping Behavior Analysis Dashboard
 
-# End-to-End Customer Analysis using Python, SQL & Power BI
+# End-to-End Customer Shopping Behavior Analysis using Python, SQL & Power BI
 
 A visually rich and business-focused analytics project designed to analyze customer shopping behavior, identify purchasing patterns, understand subscription and discount behavior, and deliver actionable insights through an interactive Power BI dashboard.
 
